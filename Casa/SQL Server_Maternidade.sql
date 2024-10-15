@@ -43,3 +43,8 @@ FOREIGN KEY(bebe_id) REFERENCES bebe(id_bebe),
 FOREIGN KEY(medico_num_crm) REFERENCES medico(numero_crm),
 FOREIGN KEY(medico_uf_crm) REFERENCES medico(uf_crm)
 )
+
+SELECT * FROM mae
+SELECT * FROM bebe
+SELECT * FROM medico
+SELECT * FROM bebe_medico
