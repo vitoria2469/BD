@@ -1,0 +1,35 @@
+--Exercícios
+--1)Apresentar marca e modelo de carro e a soma total da distância percorrida pelos carros,
+--em viagens, de uma dada empresa, ordenado pela distância percorrida
+
+
+--2)Apresentar nome das empresas cuja soma total da distância percorrida pelos carros,
+--em viagens, é superior a 50000 km
+
+--3)Apresentar nome das empresas cuja soma total da distância percorrida pelos carros
+--e a media das distâncias percorridas por seus carros em viagens.
+--A média deve ser exibida em uma coluna chamada mediaDist e com 2 casas decimais apenas.
+--Deve-se ordenar a saída pela média descrescente
+
+--4)Apresentar nome das empresas cujos carro percorreram a maior distância dentre as cadastradas
+
+--5)Apresentar nome das empresas e a quantidade de carros cadastrados para cada empresa
+--Desde que a empresa tenha 3 ou mais carros
+--A saída deve ser ordenada pela quantidade de carros, descrescente
+
+--6)Consultar Nomes das empresas que não tem carros cadastrados
+
+--7)Consultar Marca e modelos dos carros que não fizeram viagens
+
+--8)Consultar quantas viagens foram feitas por cada carro (marca e modelo) de cada empresa
+--em ordem ascendente de nome de empresa e descendente de quantidade
+
+--9) Consultar o nome da empresa, a marca e o modelo do carro, a distância percorrida
+--e o valor total ganho por viagem, sabendo que para distâncias inferiores a 1000 km, o valor é R$10,00
+--por km e para viagens superiores a 1000 km, o valor é R$15,00 por km.
+
+--10) Apresentar o nome da empresa e a média de distância percorrida por seus carros. A saída da média deve ter até 2 casas decimais e deve ser ordenada pela média da distância percorrida 
+
+--11) Apresentar marca e modelo do carro, além do nome da empresa e a data no formato (DD/MM/AAAA) do carro que fez a última viagem dentre os cadastrados
+
+--12) Considerando que hoje é 01/01/2023, apresentar a marca e o modelo do carro, além do nome da empresa e a quantidade de dias da viagem, dos carros que tiveram viagens nos últimos 3 meses. Ordenar (todos ascendentes) por quantidade de dias, marca, modelo e nome da empresa.
